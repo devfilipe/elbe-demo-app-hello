@@ -1,3 +1,6 @@
+# Build output
+/hello
+
 # Prerequisites
 *.d
 
